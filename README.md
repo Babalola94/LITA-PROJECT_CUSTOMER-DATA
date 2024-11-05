@@ -50,9 +50,16 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
 
 ### Inference
 
-   ## Sales by month:
+   ## Suscription Type
 
-   the month of February has the most total sales while in the month of September, sales was at a very low level
- 
+   Customers'subscriped to baic more than they do premium and standard
+
+ ## Revenue by Year
+
+ more revenue was generated in the year 2022 than year 2023 which also implied that customers subscriped more in the year 2022 than 2023
+
+ ## Revenue by Region
+
+ the highest revenue was genearted from the Eastern region, followed by the Southern region while the Western region followed suite and the Northen region generated the least revenue in the years under review.
 
 
