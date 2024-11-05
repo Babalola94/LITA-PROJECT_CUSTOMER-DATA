@@ -36,15 +36,16 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
  ![Screenshot 2024-11-05 104542](https://github.com/user-attachments/assets/b8bc241f-c764-405a-b0eb-fdbb6a6dbad7)
 
 
-## Total Sales By Region
-![Screenshot 2024-11-05 064206](https://github.com/user-attachments/assets/e8005cb2-b8a8-49ff-b1b5-5416adff867c)
+## Most Popular Sbscription Type
+![Screenshot 2024-11-05 104936](https://github.com/user-attachments/assets/e043a4f0-de3d-4f67-9174-f2ad242c9d95)
 
-## Total Sales by Month
-![Screenshot 2024-11-05 064313](https://github.com/user-attachments/assets/016d4f24-cdaa-419a-91c4-16a4d9b66ca4)
 
-## Top 5 Customers by Total Purchase
-![Screenshot 2024-11-05 100628](https://github.com/user-attachments/assets/1a262532-7e9e-42a5-859a-f27eed8dc675)
+## Sum of Revenue by Region
+![Screenshot 2024-11-05 105204](https://github.com/user-attachments/assets/f5d0ccf6-a673-4822-8e81-f80eeade209e)
 
+
+## Sum of Revenue by Year
+![Screenshot 2024-11-05 105406](https://github.com/user-attachments/assets/adb76041-cacd-43e0-8144-531b49028265)
 
 
 ### Inference
